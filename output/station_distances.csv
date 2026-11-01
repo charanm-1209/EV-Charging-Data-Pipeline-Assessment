@@ -1,0 +1,74 @@
+station_id,station_name,nearest_station_id,nearest_station_name,distance_km
+EV065,Statiq Kodambakkam,EV079,Zeon Kodambakkam Hub,0.162
+EV079,Zeon Kodambakkam Hub,EV065,Statiq Kodambakkam,0.162
+EV036,ChargeZone Kilpauk,EV043,Statiq Kilpauk,0.258
+EV043,Statiq Kilpauk,EV036,ChargeZone Kilpauk,0.258
+EV007,Glida Perambur,EV014,Zeon Perambur Hub,0.272
+EV014,Zeon Perambur Hub,EV007,Glida Perambur,0.272
+EV020,Glida Nanganallur,EV064,Shell Recharge Nanganallur,0.285
+EV064,Shell Recharge Nanganallur,EV020,Glida Nanganallur,0.285
+EV016,Statiq Tambaram,EV052,Unnamed Station,0.331
+EV052,Unnamed Station,EV016,Statiq Tambaram,0.331
+EV017,Ather Grid Nanganallur,EV042,Zeon Nanganallur Hub,0.337
+EV042,Zeon Nanganallur Hub,EV017,Ather Grid Nanganallur,0.337
+EV005,Tata Power - Egmore,EV049,Ather Grid Egmore,0.438
+EV049,Ather Grid Egmore,EV005,Tata Power - Egmore,0.438
+EV051,Shell Recharge Royapettah,EV053,Statiq Royapettah,0.449
+EV053,Statiq Royapettah,EV051,Shell Recharge Royapettah,0.449
+EV002,Unnamed Station,EV079,Zeon Kodambakkam Hub,0.46
+EV012,Zeon Koyambedu Hub,EV023,Unnamed Station,0.488
+EV023,Unnamed Station,EV012,Zeon Koyambedu Hub,0.488
+EV015,Jio-bp pulse Kodambakkam,EV054,Bolt Earth Kodambakkam,0.508
+EV054,Bolt Earth Kodambakkam,EV015,Jio-bp pulse Kodambakkam,0.508
+EV050,Jio-bp pulse Washermanpet,EV055,Tata Power - Washermanpet,0.588
+EV055,Tata Power - Washermanpet,EV050,Jio-bp pulse Washermanpet,0.588
+EV029,ChargeZone Chromepet,EV033,Bolt Earth Chromepet,0.636
+EV033,Bolt Earth Chromepet,EV029,ChargeZone Chromepet,0.636
+EV072,Tata Power - Royapettah,EV051,Shell Recharge Royapettah,0.646
+EV021,Statiq Perambur,EV068,Ather Grid Perambur,0.676
+EV068,Ather Grid Perambur,EV021,Statiq Perambur,0.676
+EV026,Glida Royapettah,EV072,Tata Power - Royapettah,0.709
+EV059,Tata Power - Adyar,EV063,Jio-bp pulse Adyar,0.745
+EV063,Jio-bp pulse Adyar,EV059,Tata Power - Adyar,0.745
+EV038,Unnamed Station,EV040,Ather Grid Vadapalani,0.761
+EV040,Ather Grid Vadapalani,EV038,Unnamed Station,0.761
+EV006,Zeon Navalur Hub,EV028,Glida Navalur,0.812
+EV028,Glida Navalur,EV006,Zeon Navalur Hub,0.812
+EV076,Statiq Koyambedu,EV012,Zeon Koyambedu Hub,0.841
+EV075,Shell Recharge Sholinganallur,EV078,Bolt Earth Sholinganallur,0.895
+EV078,Bolt Earth Sholinganallur,EV075,Shell Recharge Sholinganallur,0.895
+EV022,Statiq Egmore,EV049,Ather Grid Egmore,0.899
+EV009,Statiq Anna Nagar,EV024,Zeon Anna Nagar Hub,0.905
+EV024,Zeon Anna Nagar Hub,EV009,Statiq Anna Nagar,0.905
+EV061,Glida Nungambakkam,EV054,Bolt Earth Kodambakkam,0.971
+EV001,Tata Power - Phoenix Mall,EV046,Glida Guindy,1.004
+EV046,Glida Guindy,EV001,Tata Power - Phoenix Mall,1.004
+EV070,ChargeZone Egmore,EV022,Statiq Egmore,1.017
+EV080,Tata Power - Nungambakkam,EV061,Glida Nungambakkam,1.072
+EV048,Zeon Ashok Nagar Hub,EV040,Ather Grid Vadapalani,1.095
+EV013,Ather Grid Chromepet,EV071,Jio-bp pulse Pallavaram,1.12
+EV071,Jio-bp pulse Pallavaram,EV013,Ather Grid Chromepet,1.12
+EV056,ChargeZone Mylapore,EV060,Glida Alwarpet,1.124
+EV060,Glida Alwarpet,EV056,ChargeZone Mylapore,1.124
+EV062,Tata Power - Mylapore,EV056,ChargeZone Mylapore,1.139
+EV027,Glida Perungudi,EV077,ChargeZone Perungudi,1.166
+EV077,ChargeZone Perungudi,EV027,Glida Perungudi,1.166
+EV069,ChargeZone Tambaram,EV016,Statiq Tambaram,1.223
+EV008,Shell Recharge Navalur,EV028,Glida Navalur,1.227
+EV039,Zeon Guindy Hub,EV046,Glida Guindy,1.259
+EV045,ChargeZone Teynampet,EV002,Unnamed Station,1.282
+EV035,Ather Grid Guindy,EV039,Zeon Guindy Hub,1.289
+EV025,Shell Recharge Thiruvanmiyur,EV057,Ather Grid Thiruvanmiyur,1.371
+EV057,Ather Grid Thiruvanmiyur,EV025,Shell Recharge Thiruvanmiyur,1.371
+EV010,Zeon Medavakkam Hub,EV034,Tata Power - Medavakkam,1.707
+EV034,Tata Power - Medavakkam,EV010,Zeon Medavakkam Hub,1.707
+EV032,Ather Grid Saidapet,EV039,Zeon Guindy Hub,1.826
+EV074,Jio-bp pulse OMR Karapakkam,EV078,Bolt Earth Sholinganallur,1.877
+EV037,Bolt Earth Madipakkam,EV017,Ather Grid Nanganallur,1.924
+EV067,Unnamed Station,EV074,Jio-bp pulse OMR Karapakkam,2.148
+EV041,Bolt Earth Besant Nagar,EV059,Tata Power - Adyar,2.255
+EV030,Zeon Porur Hub,EV066,Ather Grid Valasaravakkam,2.333
+EV066,Ather Grid Valasaravakkam,EV030,Zeon Porur Hub,2.333
+EV018,ChargeZone Mogappair,EV012,Zeon Koyambedu Hub,2.568
+EV011,Unnamed Station,EV052,Unnamed Station,3.915
+EV047,Glida Madhavaram,EV007,Glida Perambur,4.47

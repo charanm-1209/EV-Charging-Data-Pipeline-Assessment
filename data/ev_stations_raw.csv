@@ -1,0 +1,81 @@
+station_id,name,operator,connector_type,power_kw,latitude,longitude
+EV001,Tata Power - Phoenix Mall,Tata Power,CCS2,60,12.9915,80.2167
+EV002,,Zeon,Type2,22,13.0418,80.2341
+EV003,Statiq Anna Nagar,Statiq,CCS2,30,,80.2101
+EV004,Ather Grid T Nagar,Ather,Type2,7.4,abc,80.23
+EV005,Tata Power - Egmore,Tata Power,CHAdeMO,50,13.0686,80.2648
+EV006,Zeon Navalur Hub,Zeon,Bharat DC001,15,12.8375,80.2195
+EV007,Glida Perambur,Glida,Bharat DC001,15,13.1180,80.2365
+EV008,Shell Recharge Navalur,Shell Recharge,Type2,11,12.8464,80.2310
+EV009,Statiq Anna Nagar,Statiq,Bharat AC001,10,13.0814,80.2054
+EV010,Zeon Medavakkam Hub,Zeon,CCS2,120,12.9105,80.1976
+EV011,,ChargeZone,CCS2,120,12.8926,80.0886
+EV012,Zeon Koyambedu Hub,Zeon,Bharat DC001,15,13.0743,80.1929
+EV013,Ather Grid Chromepet,Ather,CCS2,50,12.9564,80.1488
+EV014,Zeon Perambur Hub,Zeon,Bharat AC001,10,13.1163,80.2383
+EV015,Jio-bp pulse Kodambakkam,Jio-bp pulse,CHAdeMO,50,13.0547,80.2282
+EV016,Statiq Tambaram,Statiq,Bharat DC001,15,12.9196,80.1161
+EV017,Ather Grid Nanganallur,Ather,CCS2,50,12.9851,80.1949
+EV018,ChargeZone Mogappair,ChargeZone,CCS2,50,13.0906,80.1761
+EV019,Ather Grid Sholinganallur,Ather,Bharat AC001,10,,80.2212
+EV020,Glida Nanganallur,Glida,CHAdeMO,50,12.9864,80.1884
+EV021,Statiq Perambur,Statiq,Bharat DC001,15,13.1105,80.2258
+EV022,Statiq Egmore,Statiq,Type2,22,13.0718,80.2540
+EV023,,Bolt Earth,Bharat DC001,15,13.0765,80.1968
+EV024,Zeon Anna Nagar Hub,Zeon,Bharat DC001,15,13.0893,80.2074
+EV025,Shell Recharge Thiruvanmiyur,Shell Recharge,Type2,11,12.9751,80.2626
+EV026,Glida Royapettah,Glida,Type2,22,13.0606,80.2699
+EV027,Glida Perungudi,Glida,Bharat DC001,15,12.9594,80.2502
+EV028,Glida Navalur,Glida,CCS2,60,12.8448,80.2198
+EV029,ChargeZone Chromepet,ChargeZone,Type2,7.4,12.9479,80.1421
+EV030,Zeon Porur Hub,Zeon,Bharat AC001,3.3,13.0426,80.1585
+EV031,Statiq Mylapore,Statiq,Bharat AC001,3.3,13.0302,
+EV032,Ather Grid Saidapet,Ather,Type2,22,13.0180,80.2319
+EV033,Bolt Earth Chromepet,Bolt Earth,Bharat DC001,15,12.9459,80.1366
+EV034,Tata Power - Medavakkam,Tata Power,Bharat DC001,15,12.9184,80.1841
+EV035,Ather Grid Guindy,Ather,Type2,7.4,13.0128,80.2051
+EV036,ChargeZone Kilpauk,ChargeZone,Bharat AC001,3.3,13.0846,80.2456
+EV037,Bolt Earth Madipakkam,Bolt Earth,Type2,11,12.9679,80.1930
+EV038,,Shell Recharge,CHAdeMO,50,13.0486,80.2178
+EV039,Zeon Guindy Hub,Zeon,CCS2,120,13.0107,80.2168
+EV040,Ather Grid Vadapalani,Ather,Type2,22,13.0492,80.2108
+EV041,Bolt Earth Besant Nagar,Bolt Earth,Type2,7.4,12.9991,80.2718
+EV042,Zeon Nanganallur Hub,Zeon,CCS2,30,12.9875,80.1968
+EV043,Statiq Kilpauk,Statiq,Bharat AC001,10,13.0837,80.2478
+EV044,Statiq Guindy,Statiq,Bharat AC001,3.3,,
+EV045,ChargeZone Teynampet,ChargeZone,Bharat AC001,10,13.0395,80.2457
+EV046,Glida Guindy,Glida,CCS2,60,12.9999,80.2133
+EV047,Glida Madhavaram,Glida,Type2,7.4,13.1564,80.2243
+EV048,Zeon Ashok Nagar Hub,Zeon,Bharat DC001,15,13.0398,80.2078
+EV049,Ather Grid Egmore,Ather,CCS2,30,13.0717,80.2623
+EV050,Jio-bp pulse Washermanpet,Jio-bp pulse,CHAdeMO,50,13.1167,80.2840
+EV051,Shell Recharge Royapettah,Shell Recharge,Type2,22,13.0563,80.2633
+EV052,,Tata Power,Bharat AC001,3.3,12.9182,80.1134
+EV053,Statiq Royapettah,Statiq,CHAdeMO,50,13.0601,80.2619
+EV054,Bolt Earth Kodambakkam,Bolt Earth,Bharat DC001,15,13.0538,80.2328
+EV055,Tata Power - Washermanpet,Tata Power,Bharat DC001,15,13.1209,80.2807
+EV056,ChargeZone Mylapore,ChargeZone,CCS2,30,13.0379,80.2625
+EV057,Ather Grid Thiruvanmiyur,Ather,Type2,22,12.9851,80.2552
+EV058,ChargeZone Kolathur,ChargeZone,CCS2,30,13.1261,N/A
+EV059,Tata Power - Adyar,Tata Power,CHAdeMO,50,13.0082,80.2532
+EV060,Glida Alwarpet,Glida,Bharat AC001,3.3,13.0278,80.2621
+EV061,Glida Nungambakkam,Glida,CCS2,60,13.0613,80.2374
+EV062,Tata Power - Mylapore,Tata Power,CHAdeMO,50,13.0404,80.2727
+EV063,Jio-bp pulse Adyar,Jio-bp pulse,Type2,22,13.0020,80.2506
+EV064,Shell Recharge Nanganallur,Shell Recharge,Bharat DC001,15,12.9868,80.1858
+EV065,Statiq Kodambakkam,Statiq,Bharat AC001,3.3,13.0469,80.2318
+EV066,Ather Grid Valasaravakkam,Ather,Type2,22,13.0337,80.1780
+EV067,,Ather,Type2,11,12.9376,80.2401
+EV068,Ather Grid Perambur,Ather,Type2,7.4,13.1154,80.2295
+EV069,ChargeZone Tambaram,ChargeZone,CHAdeMO,50,12.9279,80.1235
+EV070,ChargeZone Egmore,ChargeZone,Type2,22,13.0804,80.2572
+EV071,Jio-bp pulse Pallavaram,Jio-bp pulse,Bharat AC001,3.3,12.9662,80.1512
+EV072,Tata Power - Royapettah,Tata Power,Bharat AC001,3.3,13.0543,80.2689
+EV073,Jio-bp pulse KK Nagar,Jio-bp pulse,Bharat AC001,3.3,130.0512,80.2057
+EV074,Jio-bp pulse OMR Karapakkam,Jio-bp pulse,CCS2,60,12.9201,80.2317
+EV075,Shell Recharge Sholinganallur,Shell Recharge,CHAdeMO,50,12.8961,80.2296
+EV076,Statiq Koyambedu,Statiq,Bharat DC001,15,13.0675,80.1963
+EV077,ChargeZone Perungudi,ChargeZone,Type2,11,12.9696,80.2477
+EV078,Bolt Earth Sholinganallur,Bolt Earth,Bharat AC001,10,12.9038,80.2272
+EV079,Zeon Kodambakkam Hub,Zeon,CHAdeMO,50,13.0455,80.2322
+EV080,Tata Power - Nungambakkam,Tata Power,CCS2,50,13.0677,80.2448

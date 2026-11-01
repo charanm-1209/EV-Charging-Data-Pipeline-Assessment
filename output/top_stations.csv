@@ -1,0 +1,6 @@
+station_id,station_name,operator,total_sessions,total_energy_kwh
+EV038,Unnamed Station,Shell Recharge,9,469.88
+EV059,Tata Power - Adyar,Tata Power,8,380.64
+EV020,Glida Nanganallur,Glida,8,358.76
+EV080,Tata Power - Nungambakkam,Tata Power,8,357.49
+EV079,Zeon Kodambakkam Hub,Zeon,9,344.59

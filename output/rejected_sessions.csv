@@ -1,0 +1,11 @@
+session_id,station_id,start_time,end_time,energy_kwh,amount_inr,reason
+S00031,EV004,2026-10-03 10:15:00,2026-10-03 11:05:00,6.1,109.80,Unknown station_id
+S00090,EV058,2026-10-07 19:00:00,2026-10-07 19:40:00,11.2,201.60,Unknown station_id
+S00121,EV080,2026-10-10 12:00:00,2026-10-10 13:36:00,60,1170.00,Duplicate session_id
+S00150,EV073,2026-10-12 08:30:00,2026-10-12 09:10:00,9.8,196.00,Unknown station_id
+S00206,EV099,2026-10-16 14:00:00,2026-10-16 15:00:00,18,378.00,Unknown station_id
+S00264,EV015,2026-10-20 17:45:00,2026-10-20 17:15:00,12.5,275.00,End time must be after start time
+S00276,EV051,2026-10-21 12:30:00,2026-10-21 14:00:00,26.36,632.64,Duplicate session_id
+S00305,EV027,2026-10-23 09:00:00,2026-10-23 09:00:00,3,60.00,End time must be after start time
+S00346,EV041,2026-10-25 12:10:00,2026-10-25 13:00:00,-4.2,0.00,Energy must be a positive number
+S00379,EV050,28/10/2026 07:20,28/10/2026 08:05,16.4,344.40,Invalid time format

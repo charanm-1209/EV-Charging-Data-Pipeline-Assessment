@@ -1,0 +1,74 @@
+station_id,station_name,operator,charging_hours,utilisation_percentage
+EV060,Glida Alwarpet,Glida,21.27,2.86
+EV067,Unnamed Station,Ather,19.35,2.6
+EV007,Glida Perambur,Glida,17.87,2.4
+EV029,ChargeZone Chromepet,ChargeZone,16.88,2.27
+EV008,Shell Recharge Navalur,Shell Recharge,16.6,2.23
+EV035,Ather Grid Guindy,Ather,16.07,2.16
+EV025,Shell Recharge Thiruvanmiyur,Shell Recharge,15.25,2.05
+EV024,Zeon Anna Nagar Hub,Zeon,14.65,1.97
+EV038,Unnamed Station,Shell Recharge,14.65,1.97
+EV052,Unnamed Station,Tata Power,14.2,1.91
+EV022,Statiq Egmore,Statiq,14.1,1.9
+EV014,Zeon Perambur Hub,Zeon,13.88,1.87
+EV016,Statiq Tambaram,Statiq,12.8,1.72
+EV049,Ather Grid Egmore,Ather,12.72,1.71
+EV068,Ather Grid Perambur,Ather,12.45,1.67
+EV043,Statiq Kilpauk,Statiq,11.75,1.58
+EV071,Jio-bp pulse Pallavaram,Jio-bp pulse,11.78,1.58
+EV072,Tata Power - Royapettah,Tata Power,11.68,1.57
+EV045,ChargeZone Teynampet,ChargeZone,11.63,1.56
+EV009,Statiq Anna Nagar,Statiq,11.48,1.54
+EV036,ChargeZone Kilpauk,ChargeZone,11.35,1.53
+EV048,Zeon Ashok Nagar Hub,Zeon,11.05,1.49
+EV059,Tata Power - Adyar,Tata Power,10.93,1.47
+EV057,Ather Grid Thiruvanmiyur,Ather,10.87,1.46
+EV077,ChargeZone Perungudi,ChargeZone,10.83,1.46
+EV079,Zeon Kodambakkam Hub,Zeon,10.55,1.42
+EV055,Tata Power - Washermanpet,Tata Power,10.4,1.4
+EV017,Ather Grid Nanganallur,Ather,10.33,1.39
+EV034,Tata Power - Medavakkam,Tata Power,10.23,1.38
+EV064,Shell Recharge Nanganallur,Shell Recharge,10.28,1.38
+EV080,Tata Power - Nungambakkam,Tata Power,10.08,1.36
+EV020,Glida Nanganallur,Glida,9.92,1.33
+EV041,Bolt Earth Besant Nagar,Bolt Earth,9.25,1.24
+EV037,Bolt Earth Madipakkam,Bolt Earth,9.13,1.23
+EV047,Glida Madhavaram,Glida,8.98,1.21
+EV032,Ather Grid Saidapet,Ather,8.48,1.14
+EV078,Bolt Earth Sholinganallur,Bolt Earth,7.72,1.04
+EV001,Tata Power - Phoenix Mall,Tata Power,7.48,1.01
+EV021,Statiq Perambur,Statiq,7.5,1.01
+EV015,Jio-bp pulse Kodambakkam,Jio-bp pulse,7.12,0.96
+EV070,ChargeZone Egmore,ChargeZone,7.1,0.95
+EV054,Bolt Earth Kodambakkam,Bolt Earth,6.23,0.84
+EV026,Glida Royapettah,Glida,6.1,0.82
+EV063,Jio-bp pulse Adyar,Jio-bp pulse,5.77,0.78
+EV033,Bolt Earth Chromepet,Bolt Earth,5.72,0.77
+EV065,Statiq Kodambakkam,Statiq,5.53,0.74
+EV006,Zeon Navalur Hub,Zeon,5.45,0.73
+EV066,Ather Grid Valasaravakkam,Ather,5.43,0.73
+EV027,Glida Perungudi,Glida,5.1,0.69
+EV002,Unnamed Station,Zeon,5.03,0.68
+EV012,Zeon Koyambedu Hub,Zeon,4.92,0.66
+EV051,Shell Recharge Royapettah,Shell Recharge,4.65,0.62
+EV042,Zeon Nanganallur Hub,Zeon,4.53,0.61
+EV061,Glida Nungambakkam,Glida,4.53,0.61
+EV005,Tata Power - Egmore,Tata Power,4.45,0.6
+EV013,Ather Grid Chromepet,Ather,4.38,0.59
+EV018,ChargeZone Mogappair,ChargeZone,4.23,0.57
+EV075,Shell Recharge Sholinganallur,Shell Recharge,4.17,0.56
+EV040,Ather Grid Vadapalani,Ather,4.12,0.55
+EV039,Zeon Guindy Hub,Zeon,3.48,0.47
+EV053,Statiq Royapettah,Statiq,3.53,0.47
+EV028,Glida Navalur,Glida,3.33,0.45
+EV030,Zeon Porur Hub,Zeon,3.33,0.45
+EV076,Statiq Koyambedu,Statiq,3.37,0.45
+EV046,Glida Guindy,Glida,3.18,0.43
+EV062,Tata Power - Mylapore,Tata Power,2.63,0.35
+EV010,Zeon Medavakkam Hub,Zeon,2.5,0.34
+EV023,Unnamed Station,Bolt Earth,2.52,0.34
+EV056,ChargeZone Mylapore,ChargeZone,2.53,0.34
+EV069,ChargeZone Tambaram,ChargeZone,1.78,0.24
+EV011,Unnamed Station,ChargeZone,1.47,0.2
+EV074,Jio-bp pulse OMR Karapakkam,Jio-bp pulse,1.47,0.2
+EV050,Jio-bp pulse Washermanpet,Jio-bp pulse,1.25,0.17

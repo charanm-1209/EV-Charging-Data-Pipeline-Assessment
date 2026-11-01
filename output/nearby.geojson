@@ -1,0 +1,515 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2341,
+                    13.0418
+                ]
+            },
+            "properties": {
+                "station_id": "EV002",
+                "name": "Unnamed Station",
+                "operator": "Zeon",
+                "power_kw": 22.0,
+                "distance_km": 0.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2322,
+                    13.0455
+                ]
+            },
+            "properties": {
+                "station_id": "EV079",
+                "name": "Zeon Kodambakkam Hub",
+                "operator": "Zeon",
+                "power_kw": 50.0,
+                "distance_km": 0.46
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2318,
+                    13.0469
+                ]
+            },
+            "properties": {
+                "station_id": "EV065",
+                "name": "Statiq Kodambakkam",
+                "operator": "Statiq",
+                "power_kw": 3.3,
+                "distance_km": 0.619
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2457,
+                    13.0395
+                ]
+            },
+            "properties": {
+                "station_id": "EV045",
+                "name": "ChargeZone Teynampet",
+                "operator": "ChargeZone",
+                "power_kw": 10.0,
+                "distance_km": 1.282
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2328,
+                    13.0538
+                ]
+            },
+            "properties": {
+                "station_id": "EV054",
+                "name": "Bolt Earth Kodambakkam",
+                "operator": "Bolt Earth",
+                "power_kw": 15.0,
+                "distance_km": 1.342
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2282,
+                    13.0547
+                ]
+            },
+            "properties": {
+                "station_id": "EV015",
+                "name": "Jio-bp pulse Kodambakkam",
+                "operator": "Jio-bp pulse",
+                "power_kw": 50.0,
+                "distance_km": 1.57
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2178,
+                    13.0486
+                ]
+            },
+            "properties": {
+                "station_id": "EV038",
+                "name": "Unnamed Station",
+                "operator": "Shell Recharge",
+                "power_kw": 50.0,
+                "distance_km": 1.921
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2374,
+                    13.0613
+                ]
+            },
+            "properties": {
+                "station_id": "EV061",
+                "name": "Glida Nungambakkam",
+                "operator": "Glida",
+                "power_kw": 60.0,
+                "distance_km": 2.198
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2108,
+                    13.0492
+                ]
+            },
+            "properties": {
+                "station_id": "EV040",
+                "name": "Ather Grid Vadapalani",
+                "operator": "Ather",
+                "power_kw": 22.0,
+                "distance_km": 2.655
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2319,
+                    13.018
+                ]
+            },
+            "properties": {
+                "station_id": "EV032",
+                "name": "Ather Grid Saidapet",
+                "operator": "Ather",
+                "power_kw": 22.0,
+                "distance_km": 2.657
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2078,
+                    13.0398
+                ]
+            },
+            "properties": {
+                "station_id": "EV048",
+                "name": "Zeon Ashok Nagar Hub",
+                "operator": "Zeon",
+                "power_kw": 15.0,
+                "distance_km": 2.858
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2448,
+                    13.0677
+                ]
+            },
+            "properties": {
+                "station_id": "EV080",
+                "name": "Tata Power - Nungambakkam",
+                "operator": "Tata Power",
+                "power_kw": 50.0,
+                "distance_km": 3.104
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2625,
+                    13.0379
+                ]
+            },
+            "properties": {
+                "station_id": "EV056",
+                "name": "ChargeZone Mylapore",
+                "operator": "ChargeZone",
+                "power_kw": 30.0,
+                "distance_km": 3.107
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2621,
+                    13.0278
+                ]
+            },
+            "properties": {
+                "station_id": "EV060",
+                "name": "Glida Alwarpet",
+                "operator": "Glida",
+                "power_kw": 3.3,
+                "distance_km": 3.409
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2633,
+                    13.0563
+                ]
+            },
+            "properties": {
+                "station_id": "EV051",
+                "name": "Shell Recharge Royapettah",
+                "operator": "Shell Recharge",
+                "power_kw": 22.0,
+                "distance_km": 3.55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2619,
+                    13.0601
+                ]
+            },
+            "properties": {
+                "station_id": "EV053",
+                "name": "Statiq Royapettah",
+                "operator": "Statiq",
+                "power_kw": 50.0,
+                "distance_km": 3.634
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2168,
+                    13.0107
+                ]
+            },
+            "properties": {
+                "station_id": "EV039",
+                "name": "Zeon Guindy Hub",
+                "operator": "Zeon",
+                "power_kw": 120.0,
+                "distance_km": 3.933
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.254,
+                    13.0718
+                ]
+            },
+            "properties": {
+                "station_id": "EV022",
+                "name": "Statiq Egmore",
+                "operator": "Statiq",
+                "power_kw": 22.0,
+                "distance_km": 3.972
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2689,
+                    13.0543
+                ]
+            },
+            "properties": {
+                "station_id": "EV072",
+                "name": "Tata Power - Royapettah",
+                "operator": "Tata Power",
+                "power_kw": 3.3,
+                "distance_km": 4.018
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2727,
+                    13.0404
+                ]
+            },
+            "properties": {
+                "station_id": "EV062",
+                "name": "Tata Power - Mylapore",
+                "operator": "Tata Power",
+                "power_kw": 50.0,
+                "distance_km": 4.184
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2532,
+                    13.0082
+                ]
+            },
+            "properties": {
+                "station_id": "EV059",
+                "name": "Tata Power - Adyar",
+                "operator": "Tata Power",
+                "power_kw": 50.0,
+                "distance_km": 4.271
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2699,
+                    13.0606
+                ]
+            },
+            "properties": {
+                "station_id": "EV026",
+                "name": "Glida Royapettah",
+                "operator": "Glida",
+                "power_kw": 22.0,
+                "distance_km": 4.406
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2648,
+                    13.0686
+                ]
+            },
+            "properties": {
+                "station_id": "EV005",
+                "name": "Tata Power - Egmore",
+                "operator": "Tata Power",
+                "power_kw": 50.0,
+                "distance_km": 4.465
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2051,
+                    13.0128
+                ]
+            },
+            "properties": {
+                "station_id": "EV035",
+                "name": "Ather Grid Guindy",
+                "operator": "Ather",
+                "power_kw": 7.4,
+                "distance_km": 4.502
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2623,
+                    13.0717
+                ]
+            },
+            "properties": {
+                "station_id": "EV049",
+                "name": "Ather Grid Egmore",
+                "operator": "Ather",
+                "power_kw": 30.0,
+                "distance_km": 4.515
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2506,
+                    13.002
+                ]
+            },
+            "properties": {
+                "station_id": "EV063",
+                "name": "Jio-bp pulse Adyar",
+                "operator": "Jio-bp pulse",
+                "power_kw": 22.0,
+                "distance_km": 4.773
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2478,
+                    13.0837
+                ]
+            },
+            "properties": {
+                "station_id": "EV043",
+                "name": "Statiq Kilpauk",
+                "operator": "Statiq",
+                "power_kw": 10.0,
+                "distance_km": 4.89
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2456,
+                    13.0846
+                ]
+            },
+            "properties": {
+                "station_id": "EV036",
+                "name": "ChargeZone Kilpauk",
+                "operator": "ChargeZone",
+                "power_kw": 3.3,
+                "distance_km": 4.919
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2572,
+                    13.0804
+                ]
+            },
+            "properties": {
+                "station_id": "EV070",
+                "name": "ChargeZone Egmore",
+                "operator": "ChargeZone",
+                "power_kw": 22.0,
+                "distance_km": 4.968
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1963,
+                    13.0675
+                ]
+            },
+            "properties": {
+                "station_id": "EV076",
+                "name": "Statiq Koyambedu",
+                "operator": "Statiq",
+                "power_kw": 15.0,
+                "distance_km": 4.993
+            }
+        }
+    ]
+}

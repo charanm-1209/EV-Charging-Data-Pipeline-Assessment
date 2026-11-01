@@ -1,0 +1,2 @@
+session_id,station_id,duration_hours,station_power_kw,recorded_energy_kwh,maximum_possible_energy_kwh
+S00376,EV012,0.5,15.0,45.0,7.5

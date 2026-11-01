@@ -1,0 +1,11 @@
+operator,total_sessions,total_energy_kwh,total_revenue_inr,avg_duration_min
+Zeon,65,1548.02,32373.42,73.3
+Tata Power,57,1558.26,30386.09,86.4
+Glida,60,1277.95,27475.91,80.3
+Ather,66,1463.84,26349.12,94.7
+Shell Recharge,41,1079.08,25897.92,96.0
+ChargeZone,42,758.18,16679.96,96.9
+Statiq,46,783.41,15668.2,91.4
+Jio-bp pulse,20,481.87,11083.01,82.2
+Bolt Earth,25,330.6,5620.2,97.4
+TOTAL,422,9281.21,191533.83,87.8
